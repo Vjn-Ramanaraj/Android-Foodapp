@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Resto</string>
+    <string name="email">Email</string>
+    <string name="sign_up">sign_up</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="do_you_have_an_account_login">Do you have an account?Login</string>
+    <string name="login">Login</string>
+    <string name="email_id">email Id</string>
+    <string name="pass">Password</string>
+    <string name="Signin">Login</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account?signup</string>
+    <string name="enjoy_with_resto">enjoy_with_resto</string>
+    <string name="get_start">Get_start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addform">crudform</string>
+</resources>

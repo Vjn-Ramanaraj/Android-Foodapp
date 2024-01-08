@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+
+
+
+
+
+    <item
+        android:id="@+id/add"
+        android:title="Add item"
+        android:icon="@drawable/baseline_add_24"/>
+
+
+    <item
+        android:id="@+id/cart"
+        android:title="Add to Cart"
+        android:icon="@drawable/baseline_add_shopping_cart_24"/>
+
+
+
+
+</menu>
